@@ -1,3 +1,7 @@
 Hi Bhanu!
 
+<<<<<<< HEAD
 Hello!
+=======
+HIIIIII
+>>>>>>> vinu
